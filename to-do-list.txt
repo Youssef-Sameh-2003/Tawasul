@@ -1,0 +1,34 @@
+To-Do List
+
+1. Comment System (0%)
+
+2. Optimize Speed and functionality (10%)
+
+3. Clean Code (30%)
+
+4. Complete Profile Page (40%)
+
+5. Update UI (20%)
+
+6. Add Verify Badge (30%)
+
+7. Forgot Password (90%)
+
+8. hashtags system (40%)
+
+9. Admin Panel (0%)
+
+10.Edit Profile (2%)
+
+-------------------
+Security :-
+
+1. Anti-spam (Likes) (0%)
+
+2. Captcha (0%)
+
+3. Email Verification Upon signup (0%)
+
+4. Anti-Tor (100%)
+
+5. Prevent Temp Mails (0%)
